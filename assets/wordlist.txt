@@ -1,6 +1,11 @@
 ssl
 slipper
 host
+server
+domain
+ip
+network
+provider
 king
 fan
 batt
@@ -8,6 +13,10 @@ smoke
 cigar
 signal
 bren
+tobacco
+lighter
+ashtray
+filter
 brand 
 color
 br
