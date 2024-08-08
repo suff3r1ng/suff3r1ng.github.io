@@ -1,121 +1,85 @@
-blanket
-bags
-box
-cart
-mart
-meds
-sulf
-sold
-mold
-bold
-gold
-cloth
-pine
-narra
-tree
-4x4
-3x3
-5x5
-6x6
-fans
-screw
-crew
-salad
-nit
-tin
-slim
-add
-more
-moto
-engine
-eng
-group
-salle
-de
-maria
-flow
-flowers
-grand
-brands
-belts
-puny
-pun
-bun
-bake
-tool
-wool
-mesh
-hash
-gresh
-blas
-large
-small
-medium
-xxl
-xl
-sm
-md
-oz
-ounce
-bounce
-ball
-tall
-ring
-wing
-grim
-ssl
-slipper
-host
-server
-domain
-ip
-network
-provider
-king
-fan
-batt
-smoke
-cigar
-signal
-bren
-tobacco
-lighter
-ashtray
-filter
-brand 
-color
-br
-jack
-king
-queen
-xl
-xxl
-size
-pack
-bundle
-set
-kit
-case
+baby monitor
+car seat
+high chair
+baby carrier
+nursing pillow
+changing table
+baby bathtub
+baby lotion
+baby powder
+teething ring
+baby food
+sippy cup
+bib
+burp cloth
+swaddle
+mobile
+nightlight
+baby gate
+baby proofing
+sterilizer
+breast pump
+baby sling
+baby bouncer
+play mat
+baby clothes
+baby shoes
+baby socks
+mittens
+hat
+baby towel
+washcloth
+baby shampoo
+baby soap
+baby oil
+baby thermometer
+nasal aspirator
+baby toothbrush
+baby spoon
+baby bowl
+baby plate
+baby book
+lullaby
+rattle
+soft toy
+baby gym
+baby walker
+potty
+baby detergent
+baby sunscreen
+baby nail clipper
+baby hair brush
+baby comb
+baby first aid kit
+baby humidifier
+baby swing
+baby rocker
+baby wrap
+baby leash
+baby safety locks
+baby knee pads
+baby teether
+baby photo props
+baby memory book
+baby sleep sack
+baby food maker
+baby food storage
+baby food freezer tray
+baby food scissors
+baby food grinder
+baby food mill
+baby food processor
+baby food masher
+baby food blender
+baby food steamer
 charger
 adapter
 wireless
 portable
 premium
-bag
-tequila
-tech
-ml
-ml
-oz
-liter
-gram
-pack
-set
-kit
-bundle
+case
 combo
 deluxe
-premium
 pro
 ultra
 mini
@@ -130,12 +94,217 @@ flex
 multi
 super
 hybrid
-comfort
-slim
-durable
 universal
 advanced
 custom
+server
+domain
+ip
+network
+provider
+host
+signal
+tech
+batt 
+battery
+slim
+engine
+tool
+large
+small
+medium
+xxl
+xl
+sm
+md
+pack
+bundle
+brand
+color
+size
+bags
+cart
+mart
+box
+set
+kit
+bag
+comfort
+durable
+colors
+red
+blue
+green
+yellow
+orange
+purple
+pink
+brown
+black
+white
+gray
+teal
+turquoise
+indigo
+violet
+magenta
+cyan
+maroon
+olive
+navy
+crimson
+scarlet
+ruby
+emerald
+jade
+lime
+lemon
+gold
+amber
+bronze
+copper
+silver
+platinum
+lavender
+lilac
+plum
+mauve
+fuchsia
+salmon
+coral
+peach
+tan
+beige
+ivory
+cream
+khaki
+mustard
+charcoal
+slate
+azure
+aqua
+cerulean
+sapphire
+cobalt
+periwinkle
+burgundy
+sienna
+ochre
+sepia
+taupe
+ecru
+russet
+terracotta
+mahogany
+chestnut
+umber
+puce
+celadon
+sage
+moss
+olive drab
+chartreuse
+mint
+seafoam
+pistachio
+meds
+sulf
+sold
+mold
+bold
+cloth
+pine
+narra
+tree
+1x1
+2x2
+3x3
+4x4
+5x5
+6x6
+7x7
+8x8
+9x9
+10x10
+11x11
+12x12
+15x15
+20x20
+25x25
+30x30
+40x40
+50x50
+60x60
+70x70
+80x80
+90x90
+100x100
+ml
+L
+oz
+fl+oz
+gal
+qt
+pt
+cup
+tbsp
+tsp
+cl
+dl
+fans
+screw
+crew
+salad
+nit
+tin
+add
+more
+moto
+eng
+group
+salle
+de
+maria
+flow
+flowers
+grand
+brands
+belts
+puny
+pun
+bun
+bake
+wool
+mesh
+hash
+gresh
+blas
+ounce
+bounce
+ball
+tall
+ring
+wing
+grim
+ssl
+slipper
+king
+fan
+batt
+smoke
+cigar
+bren
+tobacco
+lighter
+ashtray
+filter
+brand 
+br
+jack
+queen
+tequila
+liter
+gram
 a
 b
 c
@@ -6698,8 +6867,7 @@ z
 6534
 6535
 6536
-6537
-6538
+65378
 6539
 6540
 6541
@@ -10305,7 +10473,6 @@ always
 amaretto
 amaze
 amazingly
-amber
 ambiance
 ambiguity
 ambiguous
@@ -10445,7 +10612,6 @@ april
 apron
 aptitude
 aptly
-aqua
 aqueduct
 arbitrary
 arbitrate
@@ -10690,7 +10856,6 @@ bats
 battalion
 battered
 battering
-battery
 batting
 battle
 bauble
@@ -10804,10 +10969,8 @@ botanist
 botany
 botch
 both
-bottle
 bottling
 bottom
-bounce
 bouncing
 bouncy
 bounding
@@ -10859,7 +11022,6 @@ broken
 broker
 bronchial
 bronco
-bronze
 bronzing
 brook
 broom
@@ -10916,7 +11078,6 @@ bullseye
 bullwhip
 bully
 bunch
-bundle
 bungee
 bunion
 bunkbed
@@ -11048,7 +11209,6 @@ carve
 carving
 carwash
 cascade
-case
 cash
 casing
 casino
@@ -11133,8 +11293,6 @@ chaps
 chapter
 character
 charbroil
-charcoal
-charger
 charging
 chariot
 charity
@@ -11300,7 +11458,6 @@ coastland
 coastline
 coat
 coauthor
-cobalt
 cobbler
 cobweb
 cocoa
@@ -11339,7 +11496,6 @@ colossal
 colt
 coma
 come
-comfort
 comfy
 comic
 coming
@@ -11460,9 +11616,7 @@ copier
 copilot
 coping
 copious
-copper
 copy
-coral
 cork
 cornball
 cornbread
@@ -11570,12 +11724,10 @@ crevice
 crewless
 crewman
 crewmate
-crib
 cricket
 cried
 crier
 crimp
-crimson
 cringe
 cringing
 crinkle
@@ -11842,7 +11994,6 @@ delouse
 delta
 deluge
 delusion
-deluxe
 demanding
 demeaning
 demeanor
@@ -11940,7 +12091,6 @@ diagnosis
 diagram
 dial
 diameter
-diaper
 diaphragm
 diary
 dice
@@ -12085,7 +12235,6 @@ dollhouse
 dollop
 dolly
 dolphin
-domain
 domelike
 domestic
 dominion
@@ -12207,7 +12356,6 @@ dupe
 duplex
 duplicate
 duplicity
-durable
 durably
 duration
 duress
@@ -12355,7 +12503,6 @@ embolism
 emboss
 embroider
 emcee
-emerald
 emergency
 emission
 emit
@@ -12416,7 +12563,6 @@ enforced
 enforcer
 engaged
 engaging
-engine
 engorge
 engraved
 engraver
@@ -12732,7 +12878,6 @@ filled
 filler
 filling
 film
-filter
 filth
 filtrate
 finale
@@ -13158,13 +13303,11 @@ graveyard
 gravitate
 gravity
 gravy
-gray
 grazing
 greasily
 greedily
 greedless
 greedy
-green
 greeter
 greeting
 grew
@@ -13338,7 +13481,6 @@ harness
 harpist
 harsh
 harvest
-hash
 hassle
 haste
 hastily
@@ -13471,7 +13613,6 @@ hush
 husked
 huskiness
 hut
-hybrid
 hydrant
 hydrated
 hydration
@@ -13601,7 +13742,6 @@ italics
 item
 itinerary
 itunes
-ivory
 ivy
 jab
 jackal
@@ -13730,7 +13870,6 @@ kindness
 kindred
 kinetic
 kinfolk
-king
 kinship
 kinsman
 kinswoman
@@ -13795,7 +13934,6 @@ lapped
 lapping
 laptop
 lard
-large
 lark
 lash
 lasso
@@ -13811,7 +13949,6 @@ launch
 launder
 laundry
 laurel
-lavender
 lavish
 laxative
 lazily
@@ -13832,7 +13969,6 @@ legroom
 legume
 legwarmer
 legwork
-lemon
 lend
 length
 lens
@@ -13866,7 +14002,6 @@ likely
 likeness
 likewise
 liking
-lilac
 lilly
 lily
 limb
@@ -13915,7 +14050,6 @@ lucrative
 ludicrous
 lugged
 lukewarm
-lullaby
 lumber
 luminance
 luminous
@@ -13955,7 +14089,6 @@ mace
 machine
 machinist
 magazine
-magenta
 maggot
 magical
 magician
@@ -13968,7 +14101,6 @@ magnifier
 magnify
 magnitude
 magnolia
-mahogany
 maimed
 majestic
 majesty
@@ -14034,7 +14166,6 @@ marital
 maritime
 marlin
 marmalade
-maroon
 married
 marrow
 marry
@@ -14071,7 +14202,6 @@ matter
 maturely
 maturing
 maturity
-mauve
 maverick
 maximize
 maximum
@@ -14080,7 +14210,6 @@ mayday
 mayflower
 moaner
 moaning
-mobile
 mobility
 mobilize
 mobster
@@ -14097,7 +14226,6 @@ moistness
 moisture
 molar
 molasses
-mold
 molecular
 molecule
 molehill
@@ -14224,7 +14352,6 @@ musket
 muskiness
 musky
 mustang
-mustard
 muster
 mustiness
 musty
@@ -14267,7 +14394,6 @@ naturist
 nautical
 navigate
 navigator
-navy
 nearby
 nearest
 nearly
@@ -14388,7 +14514,6 @@ oink
 ointment
 okay
 old
-olive
 olympics
 omega
 omen
@@ -14438,7 +14563,6 @@ other
 otter
 ouch
 ought
-ounce
 outage
 outback
 outbid
@@ -14589,7 +14713,6 @@ ozone
 paced
 pacemaker
 pacific
-pacifier
 pacifism
 pacifist
 pacify
@@ -14814,7 +14937,6 @@ plastic
 plated
 platform
 plating
-platinum
 platonic
 platter
 platypus
@@ -14831,7 +14953,6 @@ playlist
 playmaker
 playmate
 playoff
-playpen
 playroom
 playset
 plaything
@@ -14855,7 +14976,6 @@ plug
 plunder
 plunging
 plural
-plus
 plutonium
 plywood
 poach
@@ -14900,7 +15020,6 @@ porcupine
 pork
 porous
 porridge
-portable
 portal
 portfolio
 porthole
@@ -14932,7 +15051,6 @@ pout
 powdered
 powdering
 powdery
-power
 powwow
 pox
 praising
@@ -14968,7 +15086,6 @@ prelaw
 prelude
 premiere
 premises
-premium
 prenatal
 preoccupy
 preorder
@@ -14977,7 +15094,6 @@ prepay
 preplan
 preppy
 preschool
-prescribe
 preseason
 preset
 preshow
@@ -15083,7 +15199,6 @@ provable
 proved
 proven
 provided
-provider
 providing
 province
 proving
@@ -15139,7 +15254,6 @@ purify
 purist
 puritan
 purity
-purple
 purplish
 purposely
 purr
@@ -15691,7 +15805,6 @@ rubber
 rubbing
 rubble
 rubdown
-ruby
 ruckus
 rudder
 rug
@@ -15732,13 +15845,11 @@ safely
 safeness
 saffron
 saga
-sage
 sagging
 saggy
 said
 saint
 sake
-salad
 salami
 salaried
 salary
@@ -15872,9 +15983,6 @@ scrap
 scratch
 scrawny
 screen
-scribble
-scribe
-scribing
 scrimmage
 script
 scroll
@@ -15936,7 +16044,6 @@ sensitive
 sensitize
 sensually
 sensuous
-sepia
 september
 septic
 septum
@@ -16096,7 +16203,6 @@ silliness
 silly
 silo
 silt
-silver
 similarly
 simile
 simmering
@@ -16129,7 +16235,6 @@ sixtieth
 sixtyfold
 sizable
 sizably
-size
 sizing
 sizzle
 sizzling
@@ -16185,7 +16290,6 @@ slapping
 slapstick
 slashed
 slashing
-slate
 slather
 slaw
 sled
@@ -16228,7 +16332,6 @@ slum
 slurp
 slush
 sly
-small
 smartly
 smartness
 smasher
@@ -16597,7 +16700,6 @@ strive
 striving
 strobe
 strode
-stroller
 strongbox
 strongly
 strongman
@@ -16659,7 +16761,6 @@ subpanel
 subpar
 subplot
 subprime
-subscribe
 subscript
 subsector
 subside
@@ -16828,7 +16929,6 @@ take
 taking
 talcum
 talisman
-tall
 talon
 tamale
 tameness
@@ -17008,7 +17108,6 @@ treadmill
 treason
 treat
 treble
-tree
 trekker
 tremble
 trembling
@@ -17127,7 +17226,6 @@ tyke
 udder
 ultimate
 ultimatum
-ultra
 umbilical
 umbrella
 umpire
@@ -17323,7 +17421,6 @@ unisexual
 unison
 unissued
 unit
-universal
 universe
 unjustly
 unkempt
@@ -17689,7 +17786,6 @@ vintage
 violate
 violation
 violator
-violet
 violin
 viper
 viral
@@ -17757,7 +17853,6 @@ washable
 washbasin
 washboard
 washbowl
-washcloth
 washday
 washed
 washer
@@ -17822,14 +17917,12 @@ wimp
 wince
 wincing
 wind
-wing
 winking
 winner
 winnings
 winter
 wipe
 wired
-wireless
 wiring
 wiry
 wisdom
@@ -17853,7 +17946,6 @@ womanly
 womb
 woof
 wooing
-wool
 woozy
 word
 work
