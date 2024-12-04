@@ -1,11 +1,14 @@
 .ca
 .au
+office+lifetime
+ms+office
 rdp
 steam+keys
 braintree
 paypal
 stripe
 remote+desktop
+remote+desktop+protocol
 remote
 desktop
 steam_keys
