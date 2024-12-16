@@ -1,4 +1,3 @@
-Google Dorks For SQL Injection:
 inurl:index.php?id=
 inurl:trainers.php?id=
 inurl:buy.php?category=
@@ -1377,7 +1376,6 @@ inurl:support
 inurl:user
 inurl:vtund.conf intext:pass -cvs s
 inurl:web
-POWERED BY HIT JAMMER 1.0!
 site:ups.com intitle:”Ups Package tracking” intext:”1Z ### ### ## #### ### #”
 top secret site:mil
 VP-ASP Shop Administrators only
